@@ -11,17 +11,17 @@
 ### A Convolutional Neural Network (CNN) is a special type of deep learning model that is designed for image processing and computer vision tasks. 
 ### A CNN has three main layers:
 
-Convolutional Layer 🌀
+### Convolutional Layer 🌀
 
-This layer scans the image piece by piece using small filters (kernels).
-It extracts important features like edges, corners, and textures.
-Example: If you show a CNN a cat picture, the first layers might detect edges, and deeper layers might recognize eyes, ears, and whiskers.
-Pooling Layer 🔍 (Downsampling)
+### This layer scans the image piece by piece using small filters (kernels).
+### It extracts important features like edges, corners, and textures.
+### Example: If you show a CNN a cat picture, the first layers might detect edges, and deeper layers might recognize eyes, ears, and whiskers.
 
-This layer reduces the size of the image, keeping only the most important information.
-It helps make the model faster and prevents overfitting.
-Example: If a cat’s eye is detected in one part of the image, it doesn’t need to check every single pixel again.
-Fully Connected Layer 🎯
+### Pooling Layer 🔍 (Downsampling)
+### This layer reduces the size of the image, keeping only the most important information.
+### It helps make the model faster and prevents overfitting.
+### Example: If a cat’s eye is detected in one part of the image, it doesn’t need to check every single pixel again.
 
-After extracting features, the CNN connects everything into a standard neural network.
-It classifies the image (e.g., "cat" or "dog").
+### Fully Connected Layer 🎯
+### After extracting features, the CNN connects everything into a standard neural network.
+### It classifies the image (e.g., "cat" or "dog").
