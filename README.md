@@ -8,3 +8,4 @@
  ### Output Layer: Produces the final prediction.
 ### Backpropagation & Optimization: The network adjusts weights using backpropagation and optimization techniques like gradient descent to minimize error.
 ### Activation Functions: Non-linear functions (e.g., ReLU, Sigmoid, Softmax) help the network learn complex relationships.
+### A Convolutional Neural Network (CNN) is a special type of deep learning model that is designed for image processing and computer vision tasks. 
